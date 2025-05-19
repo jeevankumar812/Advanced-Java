@@ -32,5 +32,5 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 ---
 **1c. LinkedList**
-1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))( [Program]() )<br>
+1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Iterator.java) )<br>
 [Output Screenshot]()
