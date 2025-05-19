@@ -28,4 +28,4 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sublist-op.png)
 
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index ( [Program]() )<br>
-[Output Screenshot]()
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/RemoveNthElement-op.png)
