@@ -38,7 +38,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator()) ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Desc_Iterator.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Desc_Iterator-op.png)<br>
 
-3. Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink")) ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Add_Last.java) )<br>
+3. Write a Java program to insert the specified element at the end of a linked list. ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Add_Last.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Add_Last-op.png)<br>
 
 4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p) ) ( [Programs](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/LinkedList/Array_Index.java) )<br>
