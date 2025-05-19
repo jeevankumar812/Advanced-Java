@@ -11,5 +11,5 @@ follows<br>**
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list ([Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo.java))<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo_Output.png)
 
-
+---
   
