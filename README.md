@@ -20,6 +20,6 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Remove.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Remove-op.png)<br>
 
-3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)
-( [Program]() )<br>
+3. Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)
+( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sort.java) )<br>
 [Output Screenshot]()
