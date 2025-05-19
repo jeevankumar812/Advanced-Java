@@ -29,3 +29,8 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/RemoveNthElement.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/RemoveNthElement-op.png)
+
+---
+**1c. LinkedList**
+1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))( [Program]() )<br>
+[Output Screenshot]()
