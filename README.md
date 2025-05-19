@@ -24,7 +24,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sort.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sort-op.png)<br>
 
-4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList() ( [Program]() )<br>
+4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList() ( [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_SubList.java) )<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sublist-op.png)
 
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index ( [Program]() )<br>
