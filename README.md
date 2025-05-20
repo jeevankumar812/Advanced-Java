@@ -90,27 +90,28 @@ startsWith() and endsWith()<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck.java)<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck-op.png)<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/SubstringCounter.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/SubstringCounter%20-op.png)<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
-reverseString().<br>
+reverseString(https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString.java).<br>
 [Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString%20-op.png)<br>
 
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome():<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/PalindromeCheck.java
+)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/PalindromeCheck%20-op.png)<br>
 
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace-%20op.png)<br>
 
 ---
 
