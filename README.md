@@ -193,7 +193,7 @@ display the concerned color whenever the specific tab is selected in the Pan<br>
 
 ---
 
-**6. Servelets**
+**6. Servlets**
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.<br>
