@@ -117,9 +117,9 @@ function removeWhitespace()<br>
 
 **3c. String Exercises**<br>
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
-capitalizeWords(). <br>
-[Program]()<br>
-[Output Screenshot]()<br>
+capitalizeWords()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck-op.png)<br>
 
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()<br>
