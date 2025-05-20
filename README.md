@@ -116,28 +116,28 @@ function removeWhitespace()<br>
 ---
 
 **3c. String Exercises**<br>
-6. WWrite a Java Program for Capitalizing the first letter of each word. using user defined function
+  6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords().<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck-op.png)<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/CapitalizeWords.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/CapitalizeWords%20-op.png)<br>
 
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/TruncateString.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/TruncateString%20-op.png)<br>
 
 8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/NumericCheck.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/NumericCheck%20-op.png)<br>
 
 9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RandomStringGenerator.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RandomStringGenerator%20-op.png)<br>
 
 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/WordCounter.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/WordCounter.png)<br>
 
