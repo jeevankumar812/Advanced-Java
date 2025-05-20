@@ -230,7 +230,7 @@ it has to go to show the active cookie list when you press the link go to the ac
 
 **8. SQL + JDBC**
 
-8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
+8a. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
 JSP to get the fields and display the results respectively<br>
 [Program]()<br>
