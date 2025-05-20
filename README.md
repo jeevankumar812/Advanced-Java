@@ -76,7 +76,7 @@ your answer which one is better.**<br>
 
 ---
 
-**3a. String Operations**
+**3a. String Operations**<br>
 Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
@@ -86,8 +86,8 @@ startsWith() and endsWith()<br>
 
 ---
 
-**3b. String Exercises**
-1.Write a Java Program for Checking if a given string is null or contains only whitespace using user
+**3b. String Exercises**<br>
+1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
 [Program]()<br>
 [Output Screenshot]()<br>
