@@ -87,3 +87,15 @@ startsWith() and endsWith()**<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringOperations(3a)_Output.png)<br>
 
 ---
+
+**3b. String Exercises**
+**1.Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+**2.Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
