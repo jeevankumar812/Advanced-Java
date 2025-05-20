@@ -142,3 +142,10 @@ countWords()<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/WordCounter.java)<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/WordCounter.png)<br>
 
+---
+**Swing**
+4a.Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
+Programming in Blue color plain font with font size of 32 using Jframe and Jlabel<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
