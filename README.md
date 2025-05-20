@@ -89,7 +89,7 @@ startsWith() and endsWith()<br>
 **3b. String Exercises**<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
-[Program]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck.java)<br>
 [Output Screenshot]()<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
