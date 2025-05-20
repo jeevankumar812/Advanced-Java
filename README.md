@@ -113,6 +113,7 @@ function removeWhitespace()<br>
 [Output Screenshot]()<br>
 
 ---
+
 **3c. String Exercises**<br>
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()<br>
