@@ -152,7 +152,7 @@ Programming in Blue color plain font with font size of 32 using Jframe and Jlabe
 
 ---
 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
-pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
+pressed” depending upon the Jbutton either Srilanka or India  pressed by implementing the
 event handling mechanism with addActionListener( ).<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/Swings/CountryButtonApp.java)<br>
 [Output Screenshot]()<br>
@@ -165,4 +165,32 @@ pressed by implementing the event handling mechanism with addActionListener( ).<
 [Output Screenshot]()<br>
 
 ---
+**5. Swings Examples**<br>
+5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display them on console whenever the countries are selected on the list.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
+display the concerned color whenever the specific tab is selected in the Pan.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display the capital of the countries on console whenever the countries are selected on the list.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
+display the concerned color whenever the specific tab is selected in the Pan<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+---
+
+
+
+
 
