@@ -113,7 +113,7 @@ function removeWhitespace()<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace.java)<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace-%20op.png)<br>
 
----
+
 
 **3c. String Exercises**<br>
 <br>
