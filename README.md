@@ -65,4 +65,4 @@ Searching, Substring Operations , String Modification, Whitespace Handling, Stri
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringHandling/StringOperations.java)<br>
-
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringHandling/StringOperations_Output.png)
