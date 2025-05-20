@@ -1,9 +1,9 @@
 # Advanced-Java
- **Name**: K Jeevan Kumar  
-**USN**: 4AL22CS067  
-**Sem/Section**: VI/B 
+ **Name** : K Jeevan Kumar  
+**USN** : 4AL22CS067  
+**Sem/Section** : VI/B 
 **Subject Code** : BCS613D
-**Total Programs**: 28  
+**Total Programs** : 28  
 
 ---
 **1a.  Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as
