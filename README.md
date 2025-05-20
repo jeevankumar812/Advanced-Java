@@ -98,8 +98,8 @@ using user defined function countOccurrences()<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/SubstringCounter%20-op.png)<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
-reverseString(https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString.java).<br>
-[Program]()<br>
+reverseString().<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString.java)<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString%20-op.png)<br>
 
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
