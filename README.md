@@ -115,8 +115,8 @@ function removeWhitespace()<br>
 ---
 
 **3c. String Exercises**<br>
-1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
-defined function isNullOrEmpty().<br>
+6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords(). <br>
 [Program]()<br>
 [Output Screenshot]()<br>
 
