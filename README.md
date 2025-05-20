@@ -77,6 +77,7 @@ your answer which one is better.**<br>
 ---
 
 **3a. String Operations<br>**
+
 Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
@@ -228,6 +229,7 @@ it has to go to show the active cookie list when you press the link go to the ac
 ---
 
 **8. SQL + JDBC**
+
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
 JSP to get the fields and display the results respectively<br>
@@ -255,6 +257,7 @@ results respectively<br>
 
 ---
 **9. SQL + JDBC Examples**
+
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
 HTML and JSP to get the field and display the results respectively<br>
