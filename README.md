@@ -166,6 +166,7 @@ pressed by implementing the event handling mechanism with addActionListener( ).<
 
 ---
 **5. Swings Examples**<br>
+
 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display them on console whenever the countries are selected on the list.<br>
@@ -189,6 +190,99 @@ display the concerned color whenever the specific tab is selected in the Pan<br>
 [Output Screenshot]()<br>
 
 ---
+
+**6. Servelets**
+
+6a. Build a servlet program to find the factorial of a number using HTML with step by step
+procedure.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+6b. Build a servlet program to create a cookie to get your name through text box and press submit
+button( through HTML) to display the message by greeting Welcome back your name ! , you have
+visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+6c. Build a servlet program to check the given number is prime number or not using HTML with step
+by step procedure.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+---
+
+**7. JSP Programs**
+
+7a. Build a Session Management using JSP program set with one minute session expiry time to get
+your name through text box and press submit to display the message by greeting Hello your name!.
+Check the expiry of the session after one minute.<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
+Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
+it has to go to show the active cookie list when you press the link go to the active cookie list<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+---
+
+**8. SQL + JDBC**
+8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
+new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
+JSP to get the fields and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+8b. Read all the existing records from the table coffee which is from the database test and update an
+existing coffee product in the table with its id. [Create a table coffee with fields
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and
+Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
+HTML and JSP to get the fields and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
+the table Emp of the database Employee using HTML and JSP to get the fields and display the
+results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+---
+**9. SQL + JDBC Examples**
+9a. Read all the existing records from the table coffee which is from the database test and delete
+an existing coffee product from the table with its id and display the rest of the records using
+HTML and JSP to get the field and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+9b. Read all the existing records from the table coffee which is from the database test and query
+coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
+results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and Generate
+the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
+to get the field and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
+Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
+follows using HTML and JSP to get the field and display the results respectively<br>
+[Program]()<br>
+[Output Screenshot]()<br>
+
+
+
+
 
 
 
