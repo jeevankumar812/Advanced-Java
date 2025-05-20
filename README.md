@@ -83,7 +83,7 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()**<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringOperations.java)<br>
+[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringOperations(3a)_Output.png)<br>
 
 ---
