@@ -113,11 +113,11 @@ function removeWhitespace()<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace.java)<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace-%20op.png)<br>
 
-
+---
 
 **3c. String Exercises**<br>
 <br>
-  6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords().<br>
 [Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/CapitalizeWords.java)<br>
 [Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/CapitalizeWords%20-op.png)<br>
