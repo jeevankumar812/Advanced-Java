@@ -9,7 +9,7 @@
 
 ## 📋 Table of Contents
 
-| Unit | Title                                | Experiments Covered                    |
+| Unit | Title                                | Programs Covered                    |
 |:----:|:-------------------------------------|:----------------------------------------|
 | 1    | List Interface                       | 1a, 1b, 1c                              |
 | 2    | String Handling                      | 2a, 2b                                  |
